@@ -1,5 +1,5 @@
-#test
-TEST
+#test=>test
+TEST=>test
 test
 テスト
 #テスト
